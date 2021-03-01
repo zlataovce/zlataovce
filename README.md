@@ -3,4 +3,4 @@
 
 I am a Python developer, based in the Czech Republic.
 
-how did you even find profile lmao
+how did you even find my profile lmao
