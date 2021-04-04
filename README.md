@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm zlataovce</h1>
+<h1 align="center">Hi, I'm zlataovce 👋</h1>
 <h3 align="center">A Python developer from Czech Republic</h3>
 
 - 🔭 I’m currently working on [plshelp](https://github.com/zlataovce/plshelp)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
