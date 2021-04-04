@@ -3,15 +3,7 @@
 
 - 🔭 I’m currently working on [plshelp](https://github.com/zlataovce/plshelp)
 
-- 🌱 I’m currently learning **Javascipt**
-
-- 👯 I’m looking to collaborate on [ReControl](https://github.com/wedevelopcoolstuff/ReControl)
-
-- 🤝 I’m looking for help with [Screaming Bedwars](https://github.com/ScreamingSandals/BedWars)
-
-- 💬 Ask me about **python**
-
-- ⚡ Fun fact **I think im Funny**
+- 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
